@@ -1,0 +1,12 @@
+{
+  "runtimeOptions": {
+    "tfm": "net8.0",
+    "additionalProbingPaths": [
+      "C:\\Users\\gilbe\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\gilbe\\.nuget\\packages"
+    ],
+    "configProperties": {
+      "Microsoft.NETCore.DotNetHostPolicy.SetAppPaths": true
+    }
+  }
+}
